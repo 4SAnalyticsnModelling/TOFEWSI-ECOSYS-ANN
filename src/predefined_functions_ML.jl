@@ -1,6 +1,4 @@
 # This script contains functions that are predefined to be used in Artificial Neural Network training script.
-# Created by symon.mezbahuddin@4sanalyticsnmodelling.com
-
 # This function returns test data, and model performance for Flux neural network models when train test data are given
 function flux_model_train(flux_model,
     x :: DataFrame,
